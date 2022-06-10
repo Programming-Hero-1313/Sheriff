@@ -1,4 +1,5 @@
-![Sheriff Logo](https://cdn.discordapp.com/attachments/924595995252232222/984711180578848808/logo.ico) # Sheriff
+![Sheriff Logo](https://cdn.discordapp.com/attachments/924595995252232222/984711180578848808/logo.ico) 
+# Sheriff
  
 ### Road accidents, A very common problem, but still nobody is using Altechnology to solve it,
 ### so I decided to make a program to solve it, Sheriff - An Al enabled program to detect car speed and to prevent road accidents, 
