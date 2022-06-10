@@ -1,0 +1,5 @@
+colorama==0.4.4
+dlib==19.23.1
+numpy==1.22.3
+opencv_python==4.5.5.64
+Pillow==9.1.0
